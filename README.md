@@ -1,5 +1,5 @@
 ### CalcIT!
-*Autorzy: Klaudia Barańska, Anna Dębowska, Łukasz Grabny*
+*Autorzy: Klaudia Barańska, Anna Dębowska, Łukasz Grabny (backend)*
 
 ------------
 
