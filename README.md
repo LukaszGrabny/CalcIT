@@ -1,4 +1,8 @@
 ### CalcIT!
+Wykonane w projekcie:
+-JWT
+-Integracja z kontami Google + ASP.NET Identity
+-Audit trail
 *Autorzy: Klaudia Barańska, Anna Dębowska, Łukasz Grabny (backend)*
 
 ------------
